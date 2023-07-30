@@ -1,0 +1,8 @@
+.pytest_cache/
+.vscode/
+__pycache__/
+.coverage
+htmlcov/
+README.md
+.env
+db.sqlite3

@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+markdown = "*"
+django-filter = "*"
+black = "*"
+flake8 = "*"
+python-dotenv = "*"
+pytest = "*"
+pytest-django = "*"
+pytest-cov = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
